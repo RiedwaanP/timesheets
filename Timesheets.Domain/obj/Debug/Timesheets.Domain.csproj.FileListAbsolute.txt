@@ -1,0 +1,9 @@
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Timesheets.Domain.dll
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Timesheets.Domain.pdb
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\obj\Debug\Timesheets.Domain.dll
+C:\Users\riedwaan.petersen\Documents\Visual Studio 2013\Projects\Timesheets\Timesheets.Domain\obj\Debug\Timesheets.Domain.pdb
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.Domain\obj\Debug\Timesheets.Domain.csprojResolveAssemblyReference.cache
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Timesheets.Common.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.Domain\bin\Debug\Timesheets.Common.pdb

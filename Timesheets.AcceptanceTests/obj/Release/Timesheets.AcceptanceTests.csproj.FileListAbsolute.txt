@@ -1,0 +1,17 @@
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\Timesheets.AcceptanceTests.dll.config
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\Timesheets.AcceptanceTests.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\Timesheets.AcceptanceTests.pdb
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\FluentAutomation.Core.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\FluentAutomation.SeleniumWebDriver.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\Newtonsoft.Json.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\nunit.framework.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\WebDriver.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\WebDriver.Support.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\Newtonsoft.Json.xml
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\nunit.framework.xml
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\WebDriver.xml
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\bin\Release\WebDriver.Support.xml
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\obj\Release\Timesheets.AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\obj\Release\Timesheets.AcceptanceTests.dll
+C:\Users\riedwaan.petersen\documents\visual studio 2013\Projects\Timesheets\Timesheets.AcceptanceTests\obj\Release\Timesheets.AcceptanceTests.pdb
